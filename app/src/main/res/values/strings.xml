@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Day ke 6</string>
+    <string name="teksnamatoko">TOKO SEDERHANA</string>
+    <string name="Teks1">NAMA BARANG</string>
+    <string name="teksdeskripsi">ISI TEKS DESKRIPSI</string>
+    <string name="Jumlahharga">HARGA</string>
+    <string name="Teksharga">RUPIAH</string>
+    <string name="TombolShare">SHARE</string>
+    <string name="harga_barang">HARGA BARANG :</string>
+</resources>
